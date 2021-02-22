@@ -1,0 +1,34 @@
+body{
+    margin-left: 12px;
+    background-color: #f8f9fa;
+    font-family: "Montserrat",sans-serif;
+}
+
+#main{
+    /*Tipo da Fonte*/
+    font-family: "Montserrat",sans-serif;
+
+    /*Espessura da Fonte*/
+    font-weight: bold;
+
+    /*Colocando o texto um pouco a direita*/
+    margin-left: 12px;
+}
+
+#minha_foto{
+    margin-left: 12px;
+}
+
+.headers{
+    text-decoration: underline;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+.links:hover{
+    color: #66b3ff;
+    text-decoration: underline;
+}
